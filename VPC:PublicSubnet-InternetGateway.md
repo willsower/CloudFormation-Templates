@@ -1,8 +1,8 @@
 # VPC With a Subnet -> InternetGateway
 
-This template creates a VPC that has a public subnet within. The subnet is connected to the Internet Gateway using the RouteTable and Route. The image can be seen below.
+This template creates a VPC that has a public subnet within. The subnet is connected to the Internet Gateway using the RouteTable and Route. Made with CloudFormation designer. The image can be seen below.
 
-![VPCSubnet:InternetGateway]()
+![VPCSubnet:InternetGateway](./images/VPC-PublicSubnet_InternetGateway-designer.png)
 ## Template:
 ```YAML
 AWSTemplateFormatVersion: 2010-09-09
